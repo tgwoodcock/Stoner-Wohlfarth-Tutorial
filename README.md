@@ -11,3 +11,5 @@ The other 3 notebooks show various aspects of calculating Stoner-Wohlfarth curve
 - SW_curves_1_single.ipynb
 - SW_curves_2_multi.ipynb
 - SW_curves_3_applications.ipynb
+
+The folder 'resources' contains various test data sets and images which are used in the tutorial.
