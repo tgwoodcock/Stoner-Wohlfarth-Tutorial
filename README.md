@@ -12,7 +12,7 @@ The folder 'resources' contains various test data sets and images which are used
 
 ## Usage
 
-You can try the notebooks on Binder without donwloading or installing anything:
+You can try the notebooks on Binder without downloading or installing anything:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgwoodcock/Stoner-Wohlfarth-Tutorial/HEAD)
 
