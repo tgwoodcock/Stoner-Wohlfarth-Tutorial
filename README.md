@@ -17,3 +17,8 @@ You can try the notebooks on Binder without downloading or installing anything:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgwoodcock/Stoner-Wohlfarth-Tutorial/HEAD)
 
 Or you can use git to clone this repo or simply download the contents to your computer.
+
+## Citation
+
+This code is archived on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14710091.svg)](https://doi.org/10.5281/zenodo.14710090) and can be cited using
+the doi. A ready-made citation in APA or BibTeX format is available by clicking "Cite this repository" under the "About" menu.
